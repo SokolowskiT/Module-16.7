@@ -1,0 +1,9 @@
+li {
+	margin: 5px 0;
+}
+
+li button {
+	margin-left: 20px;
+	cursor: pointer;
+	border-radius: 5%;
+}

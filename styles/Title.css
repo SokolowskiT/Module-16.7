@@ -1,0 +1,11 @@
+.todoTitle {
+	color: #04065b;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.todoTasksNumber {
+	color: #000000;
+	text-transform: uppercase;
+	text-align: center;
+}
